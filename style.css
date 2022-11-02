@@ -33,6 +33,10 @@ h1 {
   background-color: #f66958;
 }
 
+.cell:hover {
+  background-color: #edad4c;
+}
+
 #cellContainer {
   display: grid;
   grid-template-columns: repeat(3, auto);
